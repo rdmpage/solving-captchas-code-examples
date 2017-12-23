@@ -43,3 +43,5 @@ This will write out "captcha_model.hdf5" and "model_labels.dat"
 Run: 
 
 python3 solve_captchas_with_model.py
+
+[Note rdmp] When running on a Mac make sure you click on the image with the CAPTCHA then press any key to get the next solution. If you have the Terminal window in the foreground nothing will happen when you press a key.

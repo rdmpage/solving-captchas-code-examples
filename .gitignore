@@ -1,0 +1,13 @@
+.DS_Store
+
+# ignore training data
+
+extracted_letter_images/*
+
+# ignore model
+
+*.dat
+
+# ignore cache
+
+__pycache__
