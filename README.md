@@ -1,3 +1,14 @@
+# Solving CAPTCHAs code examples
+@ageitgey example of using machine learning to solve CAPTCHAs as described in [How to break a CAPTCHA system in 15 minutes with Machine Learning](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
+
+## Installing
+
+I followed https://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/ to install OpenCV. Note that we also need h5py which was missing from the requirements.txt file.
+
+```
+pip3 install h5py
+```
+
 ### Before you get started
 
 To run these scripts, you need the following installed:
